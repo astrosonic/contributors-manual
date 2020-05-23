@@ -14,3 +14,13 @@ We believe that it is rules that make us humans and without them, we are no diff
 8.  A member of the rolling workflow are expected to make at least three considerable contributions per week to avoid stepping down.
 9.  An long duration inactivity without prior information would lead to an enquiry and a poor reason might cause stepping down.
 10. Tampering with project codebases and assets without authority would lead to an enquiry and justification would be asked.
+11. The functionality of the project is expected to maintained exclusively by the architecture division, and nobody else.
+12. The codebase of the project is expected to maintained exclusively by the development division, and nobody else.
+13. The innovation of the project is expected to maintained exclusively by the design division, and nobody else.
+14. The look-and-feel of the project is expected to maintained exclusively by the frontend division, and nobody else.
+15. The testing of the project is expected to maintained exclusively by the service division, and nobody else.
+16. The documentation of the project is expected to maintained exclusively by the documentation division, and nobody else.
+17. The publicity of the project is expected to maintained exclusively by the outreach division, and nobody else.
+18. The documentation would contain the information about project contributors and their active position of responsibility.
+19. Members making continued and consistent contributions would be stepped up to a higher privilege level and greater responsibility.
+20. No deliberate changes targeted at the master of the source repository would be accepted. Changes should be made in fork branch.
