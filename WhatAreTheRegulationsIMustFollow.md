@@ -23,4 +23,14 @@ We believe that it is rules that make us humans and without them, we are no diff
 17. The publicity of the project is expected to maintained exclusively by the outreach division, and nobody else.
 18. The documentation would contain the information about project contributors and their active position of responsibility.
 19. Members making continued and consistent contributions would be stepped up to a higher privilege level and greater responsibility.
-20. No deliberate changes targeted at the master of the source repository would be accepted. Changes should be made in fork branch.
+20. No deliberate changes targeted at the master of the source repository would be accepted so changes should be made in fork branch.
+21. The core team reserves the right to accept or reject pull requests and any rejection would be followed by constructive suggestions.
+22. All project related discussions are expected to be done in their respective channels of dedicated Slack server and Space board.
+23. Addressing requests may take some time so members are expected not to spam in the dedicated Slack server and Space board.
+24. Avoid making offtopic discussions on the dedicated Slack server and Space board - if needed a separate channel might be made for it.
+25. Members are free to use any of the projects on the community for study purposes as long as citations are provided appropriately.
+26. Members are free to publish any of the projects on the community in the digital media like Reddit, Dev.to with proper citations.
+27. An amicable behaviour is expected from all the members - any controversial behaviour would lead to immediate enquiry.
+28. One can be a passive member of upto three divisions which would make them ineligible for any position of responsibility.
+29. One can hold a position of responsibility in upto one division which would make them ineligible for membership in multiple divisions.
+30. Discussion about changes are encouraged but an implementation would be possible only after the unanimous agreement of the core team.
